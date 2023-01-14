@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    div{
+        text-align: center;
+        margin-top: 100px;
+    }
+    body{
+    background-color: #FBDA61;
+background-image: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
+        background-repeat:no-repeat;
+        background-size:contain;
+
+    }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul><div><img src="file:///C:/Users/lenovo/Downloads/milk%20way%20galexy_files/custom_background_image.html" height="400" width="500">
+</div>
+  
+</body>
+</html>
+
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
